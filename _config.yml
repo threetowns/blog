@@ -101,6 +101,7 @@ deploy:
   type: git
   repo: https://github.com/threetowns/blog #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master
+  message: 更新发布
 
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
