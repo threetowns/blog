@@ -98,7 +98,9 @@ theme: hiero
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/threetowns/blog #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: master
 
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
